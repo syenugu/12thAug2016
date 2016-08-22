@@ -1,0 +1,6 @@
+c:\users\sureshy\documents\visual studio 2012\Projects\SpyMessenger\SpyMessenger\bin\Debug\SpyMessenger.exe.config
+c:\users\sureshy\documents\visual studio 2012\Projects\SpyMessenger\SpyMessenger\bin\Debug\SpyMessenger.exe
+c:\users\sureshy\documents\visual studio 2012\Projects\SpyMessenger\SpyMessenger\bin\Debug\SpyMessenger.pdb
+c:\users\sureshy\documents\visual studio 2012\Projects\SpyMessenger\SpyMessenger\obj\Debug\SpyMessenger.csprojResolveAssemblyReference.cache
+c:\users\sureshy\documents\visual studio 2012\Projects\SpyMessenger\SpyMessenger\obj\Debug\SpyMessenger.exe
+c:\users\sureshy\documents\visual studio 2012\Projects\SpyMessenger\SpyMessenger\obj\Debug\SpyMessenger.pdb
